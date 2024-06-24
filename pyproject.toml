@@ -19,7 +19,7 @@ mutagen = "^1.46.0"
 
 
 [tool.poetry.scripts]
-twspace_dl = "twspace_dl.__main__:main"
+my_twspace_dl = "my_twspace_dl.__main__:main"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
